@@ -4,7 +4,7 @@
 @define-color fg_color #2d2d2d;
 @define-color alt_bg_color @bg_color;
 @define-color alt_fg_color @fg_color;
-@define-color base_color @bg_color;
+@define-color base_color shade(@bg_color, 0.98);
 @define-color text_color shade(@fg_color, 0.90);
 @define-color selected_bg_color #7A7D81;
 @define-color selected_fg_color #f9f9f9;
