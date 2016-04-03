@@ -1,7 +1,7 @@
 /* This is LIGHT theme */
 /* default color scheme */
-@define-color bg_color #dcdcdc;
-@define-color fg_color #2d2d2d;
+@define-color bg_color #f1f1f1;
+@define-color fg_color #3D3D3D;
 @define-color alt_bg_color @bg_color;
 @define-color alt_fg_color @fg_color;
 @define-color base_color shade(@bg_color, 0.98);
