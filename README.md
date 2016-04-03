@@ -63,6 +63,7 @@ based on you color preference. I recommend these flat icons, but you can also lo
 
 Now press your super key, search for **Ubuntu Tweak** and fire it. Under the tweaks tab, there is an option for theme. Under that select the **Flatabulous** theme. Under the icon settings, select **ultra-flat-icons**. Restart your computer, and you should be good to go! You computer will look something like this after you *restart*.
 
+There are two versions of this theme: light and dark. By default, you'll see the dark version. If you want to switch to the light, open `gnome-tweak-tool` (`sudo apt install gnome-tweak-tool`) and enable the `Global Dark Theme` (which is Light actually) preference. Then reboot/re-login to apply the changes.
 
 #Screenshots
 
